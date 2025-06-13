@@ -2,27 +2,6 @@
 
 A PyTorch-based LSTM model for forecasting Microsoft (MSFT) closing prices using engineered features and a sliding window of past observations.
 
----
-
-## Performance Summary
-
-| Split | MSE | RMSE | R² |
-| ----- | --- | ---- | -- |
-|       |     |      |    |
-
-|   |
-| - |
-
-| **TRAIN** | 0.1439 | 0.3794 | 0.9848 |
-| --------- | ------ | ------ | ------ |
-| **VALID** | 0.1650 | 0.4062 | 0.9398 |
-| **TEST**  | 0.3129 | 0.5594 | 0.9643 |
-
----
-
-
-
-
 
 ## Methodology
 
